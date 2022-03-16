@@ -15,7 +15,7 @@ public class PremiersElementsGraphiques extends Application {
         root.getChildren().add(labelHelloBis);
         Scene scene = new Scene(root,300,80);
         stage.setScene(scene);
-        stage.setTitle("Salut Dorian");
+        stage.setTitle("PremiersElementsGraphiques");
         stage.show();
     }
     public static void main(String[] args) {

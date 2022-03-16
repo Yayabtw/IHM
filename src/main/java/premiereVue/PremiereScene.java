@@ -9,7 +9,7 @@ public class PremiereScene extends Application {
         VBox root = new VBox();
         Scene scene = new Scene(root,300,80);
         stage.setScene(scene);
-        stage.setTitle("Salut Dorian");
+        stage.setTitle("PremiereScene");
         stage.show();
     }
     public static void main(String[] args) {
