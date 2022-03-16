@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="441cb661-cfa3-4f15-a9cd-5f3f90d0841a" name="Changes" comment="Ajout de la classe PremiersElementsGraphiques">
-      <change beforePath="$PROJECT_DIR$/src/main/java/premiereVue/PremiersElementsGraphiques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/premiereVue/PremiersElementsGraphiques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/css/premiersStyles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/premiereVue/PremiereScene.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/premiereVue/PremiereScene.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/premiereVue/PremiersElementsGraphiques.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/premiereVue/PremiersElementsGraphiques.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +47,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ymerabet\Documents\21-22\IHM\Projet_1\src\main" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.PremiersElementsGraphiques">
     <configuration name="PremiereApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -134,7 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647426842879</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ajout de la classe PremiersElementsGraphiques">
+      <created>1647426882137</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1647426882137</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Ajout de la classe PremiersElementsGraphiques">
+      <created>1647427122105</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1647427122105</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
