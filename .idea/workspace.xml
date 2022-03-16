@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="441cb661-cfa3-4f15-a9cd-5f3f90d0841a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/premiereVue/PremiereApplication.java" afterDir="false" />
+    <list default="true" id="441cb661-cfa3-4f15-a9cd-5f3f90d0841a" name="Changes" comment="Ajout de la classe PremiereApplication">
+      <change afterPath="$PROJECT_DIR$/src/main/java/premiereVue/PremiereScene.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +42,30 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PremiereApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="premiereVue.PremiereApplication" />
+      <module name="TEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="premiereVue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PremiereApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -51,6 +76,14 @@
       <option name="presentableId" value="Default" />
       <updated>1647424833239</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ajout de la classe PremiereApplication">
+      <created>1647425111948</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647425111958</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,5 +96,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ajout de la classe PremiereApplication" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout de la classe PremiereApplication" />
   </component>
 </project>

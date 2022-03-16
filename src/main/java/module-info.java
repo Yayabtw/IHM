@@ -1,5 +1,6 @@
 module com.example.test {
     requires javafx.controls;
+    requires javafx.fxml;
     /*requires javafx.fxml;
 
     requires org.controlsfx.controls;
