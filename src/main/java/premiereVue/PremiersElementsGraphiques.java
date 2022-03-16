@@ -6,7 +6,7 @@ import javafx.scene.control.Label;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-public class PremiersElementsGraphiques {
+public class PremiersElementsGraphiques extends Application {
     public void start(Stage stage){
         VBox root = new VBox(10);
         Label labelHello = new Label("Hello");
