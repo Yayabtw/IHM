@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="441cb661-cfa3-4f15-a9cd-5f3f90d0841a" name="Changes" comment="Création du fichier premiersStyles.css">
-      <change beforePath="$PROJECT_DIR$/src/main/css/premiersStyles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/premiersStyles.css" afterDir="false" />
+    <list default="true" id="441cb661-cfa3-4f15-a9cd-5f3f90d0841a" name="Changes" comment="Implémentation du fichier css dans le projet">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/test/HelloApplication.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/test/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/test/HelloApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/test/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/test/hello-view.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +28,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -50,6 +53,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ymerabet\Documents\21-22\IHM\Projet_1" />
       <recent name="C:\Users\ymerabet\Documents\21-22\IHM\Projet_1\src\main" />
     </key>
   </component>
@@ -170,17 +174,61 @@
       <option name="project" value="LOCAL" />
       <updated>1648028760854</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Implémentation du fichier css dans le projet">
+      <created>1648028915303</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1648028915303</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Implémentation du fichier css dans le projet">
+      <created>1648029040684</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1648029040684</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="4acc86c4-d5f2-4d3c-8c92-b79028929b3c">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="4acc86c4-d5f2-4d3c-8c92-b79028929b3c" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
@@ -190,6 +238,7 @@
     <MESSAGE value="Finalisation de la classe PremiereScene" />
     <MESSAGE value="Ajout de la classe PremiersElementsGraphiques" />
     <MESSAGE value="Création du fichier premiersStyles.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="Création du fichier premiersStyles.css" />
+    <MESSAGE value="Implémentation du fichier css dans le projet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implémentation du fichier css dans le projet" />
   </component>
 </project>
