@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="441cb661-cfa3-4f15-a9cd-5f3f90d0841a" name="Changes" comment="Ajout de la classe PremiersElementsGraphiques">
-      <change afterPath="$PROJECT_DIR$/src/main/css/premiersStyles.css" afterDir="false" />
+    <list default="true" id="441cb661-cfa3-4f15-a9cd-5f3f90d0841a" name="Changes" comment="Création du fichier premiersStyles.css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/premiereVue/PremiereScene.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/premiereVue/PremiereScene.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/premiereVue/PremiersElementsGraphiques.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/premiereVue/PremiersElementsGraphiques.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -156,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647427122105</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Création du fichier premiersStyles.css">
+      <created>1647428397526</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1647428397526</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +180,7 @@
     <MESSAGE value="Ajout de la classe PremiereScene" />
     <MESSAGE value="Finalisation de la classe PremiereScene" />
     <MESSAGE value="Ajout de la classe PremiersElementsGraphiques" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajout de la classe PremiersElementsGraphiques" />
+    <MESSAGE value="Création du fichier premiersStyles.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Création du fichier premiersStyles.css" />
   </component>
 </project>
