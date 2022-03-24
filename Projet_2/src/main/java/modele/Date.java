@@ -49,16 +49,6 @@ public class Date{
         return true;
     }
 
-    public static Date lireDate(){
-
-        System.out.println("Entrez un Jour");
-        int jour = Clavier.lireInt();
-        System.out.println("Entrez un Mois");
-        int mois = Clavier.lireInt();
-        System.out.println("Entrez une Annee");
-        int annee = Clavier.lireInt();
-        return new Date (jour, mois, annee);
-    }
 
     public int compareTo(Date parDate){
         if (chAnnee < parDate.chAnnee)

@@ -13,11 +13,11 @@ public class DateCalendrier extends Date implements ConstantesCalendrier, Compar
         chNoSem = today.get(Calendar.WEEK_OF_YEAR);
         if (chJourSem == Calendar.SUNDAY)
             chJourSem = 7;
-        else 
+        else
             chJourSem --;
     }
 
-    public DateCalendrier(int parAnnee,int parMois,int parJour){
+    public DateCalendrier(int parJour,int parMois,int parAnnee){
         super(parJour, parMois, parAnnee);
         Calendar date = Calendar.getInstance();
         date.set(parAnnee,parMois-1,parJour);
@@ -32,14 +32,25 @@ public class DateCalendrier extends Date implements ConstantesCalendrier, Compar
     public int getNoSem(){
         return chNoSem;
     }
+
+    public int getJourSemaine(){
+        return chJourSem;
+    }
+
+    public int getMois(){
+        return chMois;
+    }
     public String toString(){
 
         return  ConstantesCalendrier.JOURS_SEMAINE[chJourSem-1] + " " + super.toString();
     }
 
-    public DateCalendrier dateLendemain(){
+    public DateCalendrier dateDuLendemain(){
         Date date = super.dateLendemain();
         return new DateCalendrier(date.chJour, date.chMois, date.chAnnee);
     }
-
+    public DateCalendrier dateDeLaVeille(){
+        Date date = super.dateVeille();
+        return new DateCalendrier(date.chJour, date.chMois, date.chAnnee);
+    }
 }
